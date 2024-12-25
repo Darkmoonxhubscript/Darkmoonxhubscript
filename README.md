@@ -39,7 +39,7 @@ That's all I have to share :)
   <img src="https://komarev.com/ghpvc/?username=darkmoonxhubscript&label=DarkMoon%20Profile%20Views&color=0e75b6&style=flat" alt="darkmoonxhubscript" width="375" height="50" />
 </h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darkmoonxhubscript" alt="darkmoonxhubscript" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darkmoonxhubscript"&theme=dracula alt="darkmoonxhubscript" /></a> </p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darkmoonxhubscript&show_icons=true&locale=en&layout=compact" alt="darkmoonxhubscript" /></p>
