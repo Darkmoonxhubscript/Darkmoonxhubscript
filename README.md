@@ -36,7 +36,7 @@ That's all I have to share :)
 <h1 align="center">📃 Profile Info</h1>
 
 <h1 align="center">
-  <img src="https://komarev.com/ghpvc/?username=darkmoonxhubscript&label=DarkMoon%20Profile%20Views&color=0e75b6&style=flat" alt="darkmoonxhubscript" width="300" height="150" />
+  <img src="https://komarev.com/ghpvc/?username=darkmoonxhubscript&label=DarkMoon%20Profile%20Views&color=0e75b6&style=flat" alt="darkmoonxhubscript" width="375" height="50" />
 </h1>
 
 
