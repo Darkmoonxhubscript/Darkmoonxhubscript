@@ -36,8 +36,9 @@ That's all I have to share :)
 <h1 align="center">📃 Profile Info</h1>
 
 <h1 align="center">
-  <img src="https://komarev.com/ghpvc/?username=darkmoonxhubscript&label=DarkMoon%20ProfileViews&color=0e75b6&style=flat" alt="darkmoonxhubscript" width="300" height="50" />
+  <img src="https://komarev.com/ghpvc/?username=darkmoonxhubscript&label=DarkMoon%20Profile&color=0e75b6&style=flat" alt="darkmoonxhubscript" />
 </h1>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darkmoonxhubscript&show_icons=true&locale=en&layout=compact" alt="darkmoonxhubscript" /></p>
