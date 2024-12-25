@@ -24,3 +24,7 @@
 - I love staying at my house, I rarely leave from my house.
 
 That's all I have to share :)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darkmoonxhubscript&show_icons=true&locale=en&layout=compact" alt="darkmoonxhubscript" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darkmoonxhubscript&show_icons=true&locale=en" alt="darkmoonxhubscript" /></p>
