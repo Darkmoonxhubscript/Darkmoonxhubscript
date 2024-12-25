@@ -14,7 +14,7 @@
 - I Started Scripting Exactly 1 Year Ago... 🌟
 
 - My Favorite Color is Black.
-- 
+
 <h3 align="center">⁉️ Interests</h3>
 
 - I Love Cats
