@@ -5,7 +5,7 @@
 
 - 🔥 I'm Making a *Script* For **BrookHaven RP**!
 
-- I hope this *script* becomes **famous""... 🤯
+- I hope this *script* becomes **famous**... 🤯
 
 <h3 align="center">❕ Some Information</h3>
 
@@ -45,4 +45,4 @@ That's all I have to share :)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darkmoonxhubscript&show_icons=true&locale=en&layout=compact" alt="darkmoonxhubscript" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darkmoonxhubscript&show_icons=true&locale=en" alt="darkmoonxhubscript" /></p>
--# DARKMOON HUB
+# DARKMOON HUB
