@@ -3,9 +3,9 @@
 
 <h3 align="center"> 💫 Current Project</h3>
 
-- 🔥 I'm Making a *Script* For **BrookHaven RP**!
+- 🔥 I'm Making a *Ui Library* **DarkLib V3**!
 
-- I hope this *script* becomes **famous**... 🤯
+- I hope this *Library* becomes **famous**... 🤯
 
 <h3 align="center">❕ Some Information</h3>
 
