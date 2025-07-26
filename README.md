@@ -142,7 +142,7 @@
 <tr>
 <td align="center">
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="25"> Discord
+### 💬 Discord
 <img src="https://img.shields.io/badge/@darkmoonhub%230000-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000" />
 
 </td>
