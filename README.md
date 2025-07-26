@@ -3,7 +3,7 @@
 
 <h3 align="center"> 💫 Current Project</h3>
 
-- 🔥 I'm Making a *Ui Library* **DarkLib V4**!
+- 🔥 I'm Making a *Hub Client* called **DarkMoon Client**!
 
 - I hope this *Library* becomes **famous**... 🤯
 
@@ -11,7 +11,7 @@
 
 - I'm currently 14 years old! 💁🏻‍♂️
 
-- I Started Scripting Exactly 2 Year Ago... 🌟
+- I Started Scripting Exactly 3 Year Ago... 🌟
 
 - My Favorite Color is Black. 🖤
 
