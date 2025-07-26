@@ -1,3 +1,4 @@
+```markdown
 <div align="center">
 
 # 🌙 DarkMoon Hub 🌙
@@ -52,7 +53,7 @@
 
 🚧 **Status:** In Development  
 🎯 **Goal:** Create the most user-friendly exploit hub  
-✨ **Vision:** Become a famous Hub in the community
+✨ **Vision:** Become a famous library in the community
 
 </div>
 
@@ -106,8 +107,6 @@
 ### 💬 Discord
 **@darkmoonhub#0000**
 
-<img src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID" alt="Discord Status" />
-
 ### 🔗 Links
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/darkmoonxhubscript)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/darkmoon)
@@ -124,4 +123,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=DarkMoon%20Hub&
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
+
+</div>
+```
